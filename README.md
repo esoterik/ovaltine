@@ -1,2 +1,4 @@
 # ovaltine
-simple crypto utils in ruby. intended for use in solving crypto puzzles NOT actual encryption
+compilation of simple cipher code built for cryptography classes
+
+useful for solving cryptopuzzles!
