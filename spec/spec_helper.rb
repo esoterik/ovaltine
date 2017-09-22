@@ -1,4 +1,6 @@
-%w(ciphers solvers lib).each do |d| 
+# frozen_string_literal: true
+
+%w(analyzers ciphers solvers lib).each do |d|
   $LOAD_PATH << File.join(File.dirname(__FILE__), '..', d)
 end
 
